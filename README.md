@@ -13,5 +13,5 @@ Once you have cloned the repository:
 
 ## Screenshots
 **Main Menu**
-<img src="https://github.com/vas-byte/CommandEquity/blob/89be7d29eec94aea3097fbdfe94b2834e5f3d526/Screenshots/main%20menu.png">
+<img src="Screenshots/main menu.png">
    
