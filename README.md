@@ -8,5 +8,7 @@ Once you have cloned the repository, run the main.m file to start the program.
 - **Query Latest Stock Price**: Enter a ticker or company name to quote the price of a stock in USD
 - **Generate Price Charts**: Show the historical price for a requested stock.
 
-  
+## Screenshots
+**Main Menu**
+<img src="https://github.com/vas-byte/CommandEquity/blob/main/Screenshots/main%20menu.png?raw=true">
    
