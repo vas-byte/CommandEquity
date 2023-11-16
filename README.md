@@ -1,5 +1,5 @@
 # CommandEquity
-A matlab program that allows the user to quote the prices of shares listed on exchanges in the US and produce price charts
+A matlab program that allows the user to quote the prices of shares listed on exchanges in the US and produce historical price charts. Note, this project makes use of the Alpaca Market Data API and is not intended for professional use.
 
 ## Installation
 Once you have cloned the repository, run the main.m file to start the program.
